@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 @Data // эта аннотац автоматич подтянет геттеры , сеттеры и конструкт-р (библ lombok)
 @Entity
-@Table(name = "users")
+@Table(name = "zakovika")
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
