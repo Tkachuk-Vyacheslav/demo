@@ -10,10 +10,6 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 
-
-    //делаем коммит в мэйн ветке (мастер)
-
-    // теперь мы переключились на ветку тестБранч и делаем еще запись
-
-    // еще одна запись в тестбранч
+    //testBranch commit
+    //plus second linegit br
 }
